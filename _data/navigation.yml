@@ -3,9 +3,9 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: "https://light-canle.github.io/about/"
+     url: "/about/"
    - title: "Posts"
-     url: "https://light-canle.github.io/posts/"
+     url: "/posts/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
