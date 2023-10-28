@@ -2,10 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "about"
+   - title: "About"
      url: https://light-canle.github.io/about/
    - title: "Posts"
-     url: "/posts/"
+     url: "https://light-canle.github.io/posts/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
